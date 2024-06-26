@@ -14,7 +14,7 @@
 		"@playwright/test": "^1.45.0",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/adapter-node": "^5.2.0",
-		"@sveltejs/kit": "next",
+		"@sveltejs/kit": "^1.30.4",
 		"eslint": "^8.57.0",
 		"eslint-config-prettier": "^8.10.0",
 		"eslint-plugin-svelte3": "^4.0.0",
