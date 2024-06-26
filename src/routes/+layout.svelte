@@ -10,6 +10,14 @@
 		display: flex;
 	}
 	nav a {
+		color: blue;
 		margin-right: 1rem;
+		padding-left: 2ch;
+		padding-right: 5ch;
+		text-decoration: none;
+	}
+
+	nav a:hover {
+		background-color: lightgray;
 	}
 </style>
